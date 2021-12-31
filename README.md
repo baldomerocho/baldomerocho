@@ -9,7 +9,7 @@ He creado Themes y Plugins para WordPress intentando mejorar el rendimiento y la
 
 En fin, lo encontrarías aquí mismo. 
 
-https://dev.1futurista.com
+https://datogedon.com
 
 
 ## A donde quiera que voy, el viento me sigue!
