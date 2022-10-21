@@ -3,7 +3,7 @@
 ------------------------------------------------------------------------
 ### **👨‍💻 Sobre mí**
 - Me gusta tocar el piano y la guitarra.
-- Uso mucho la línea de comandos, aunque principalmente uso Linux. Siento que es una herramienta poderosa y que me permite hacer muchas cosas de forma rápida y eficiente.
+- Uso mucho la línea de comandos, aunque principalmente uso Linux y macOS. Siento que es una herramienta poderosa y que me permite hacer muchas cosas de forma rápida y eficiente.
 - Me gustaría colaborar en proyectos de código abierto.
 - Me gusta aprender metodologías ágiles y metodologías de desarrollo de software.
 - Quiero ser un experto en TDD y BDD, y demás arquitecturas y patrones de diseño.
@@ -19,10 +19,7 @@ ____________________________________________________
 ### **📫 Contacto**
 - [**Linkedin**](https://www.linkedin.com/in/baldomerocho/)
 - [**Twitter**](https://twitter.com/baldogeek)
-- [**Instagram**](https://www.instagram.com/don.baldo.cho/)
-- [**Facebook**](https://www.facebook.com/baldomero.cho)
-- [**Youtube**](https://www.youtube.com/channel/UCY8Y4Z5ZQ9Z9Z9Z9Z9Z9Z9Q)
-- [**Email**](mailto:dev@datogedon.com)
+- [**Email**](mailto:baldomerocho@icloud.com)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
