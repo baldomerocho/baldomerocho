@@ -17,3 +17,5 @@ ____________________________________________________
 - [**Email**](mailto:baldomerocho@icloud.com)
 
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=baldomerocho&show_icons=true&hide_border=true&theme=dark" />
+<br>
+<img align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baldomerocho&langs_count=8" />
