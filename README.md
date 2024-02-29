@@ -22,6 +22,7 @@ ____________________________________________________
 
 ### **📫 Colaboraciones**
 Comparto lo que aprendo en mi blog [**datogedon.com**](https://datogedon.com). Y en mis canales de [**Youtube**](https://www.youtube.com/channel/UCUEIkqP0ZYY7R7GEV5wwhvA).
-<img align="left" alt="canove's Github Stats" src="https://github-readme-stats.vercel.app/api?username=baldomerocho&show_icons=true&hide_border=true&theme=dark" />
+
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=baldomerocho&show_icons=true&hide_border=true&theme=dark" />
 
 Website: [DATOGEDON.COM](datogedon.com)
